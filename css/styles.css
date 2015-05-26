@@ -1,0 +1,69 @@
+/* Set Your Own Margin & Padding */
+h2, h3, p {
+	margin: .5px auto;
+	padding: .5px auto;
+}
+
+.container {
+	margin: 0 auto;
+}
+
+/* Layout for Style Tile*/
+section {
+	margin: 20px 0;
+}
+
+.color-1,
+.color-2,
+.color-3,
+.pattern-1,
+.pattern-2,
+.pattern-3, 
+.imagery-1,
+.imagery-2,
+.imagery-3 {
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+ /* Colors */
+.color-1 {
+	background: #33d6ad;
+}
+
+.color-2 {
+	background: #B8B8FF;
+}
+
+.color-3 {
+	background: #fff0d1;
+}
+
+/*Links*/
+a {
+	text-decoration: none;
+	text-transform: bold;
+}
+
+a:hover {
+	color: #b8b8ff;
+}
+
+h3 p {
+  font-family: 'Lato' , sans-serif;
+}
+
+
+
+
+
+
