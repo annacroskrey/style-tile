@@ -35,6 +35,26 @@ section {
 	background: url("../img/grid-bg.png") repeat-y;
 }
 
+/* Patterns */
+
+.pattern-1 {
+	background-image: url("../light_grey/light_grey.png");
+	background-repeat: no-repeat;
+}
+
+.pattern-2 {
+	background-image: url("../wet_snow/wet_snow.png");
+	background-repeat: no-repeat;
+}
+
+.pattern-3 {
+	background-image: url("../paisley/paisley.png");
+	background-repeat: no-repeat;
+}
+
+
+
+
  /* Colors */
 .color-1 {
 	background: #33d6ad;
